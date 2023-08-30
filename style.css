@@ -1,0 +1,58 @@
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;  
+}
+
+#focaccia{
+    border-radius: 3%;
+    box-shadow: 5px 5px 50px rgb(211, 211, 211);
+}
+
+#underhead{
+    text-align: center;
+    color: rgb(22, 41, 102);
+    font-size: 0.8em;
+    background-color: rgb(255, 249, 191);    
+    padding: 1.5em;
+    border-top: solid rgb(235, 172, 37);
+}
+
+.container{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h1{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+    color: grey;
+}
+
+#link{
+    border-left: solid rgb(197, 166, 63);
+    padding-left: 2em;
+}
+
+h2{
+    margin-top: 2.5em;
+}
+
+.lista{
+    font-weight: bold;
+}
+
+.feat{
+    color: rgb(172, 0, 0);
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+li{
+    padding-bottom: 5px;
+}
