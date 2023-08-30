@@ -1,16 +1,26 @@
+#body{
+    margin: 0;
+}
+
 #logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 15%;  
+    width: 200px;  
+}
+
+header{
+    text-align: center;
+}
+
+header > p > span{
+    font-weight: bold;
 }
 
 #focaccia{
     border-radius: 3%;
     box-shadow: 5px 5px 50px rgb(211, 211, 211);
+    width: 100%;
 }
 
-#underhead{
+header p{
     text-align: center;
     color: rgb(22, 41, 102);
     font-size: 0.8em;
@@ -20,15 +30,16 @@
 }
 
 .container{
-    margin-left: 30%;
-    margin-right: 30%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{
     text-align: center;
 }
 
-#description{
+.container img + p{
     text-align: center;
     color: grey;
 }
